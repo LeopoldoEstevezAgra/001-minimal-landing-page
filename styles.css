@@ -110,12 +110,13 @@ body {
 }
 
 @media (max-width: 900px) {
-    .mail {
-        font-size: 1.4em;
+    
+    .card {
+        width: 90vw;
     }
 }
 @media (max-width: 756px) {
-    .mail, .name {
+    .mail {
         font-size: 1.2em;
     }
 }
