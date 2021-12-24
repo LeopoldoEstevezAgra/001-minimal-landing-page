@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: sans-serif;
 }
 body {
     display: flex;
@@ -118,5 +119,10 @@ body {
 @media (max-width: 756px) {
     .mail {
         font-size: 1.2em;
+    }
+}
+@media (max-width: 756px) {
+    .flip-card-back {
+        font-size: 0.9em;
     }
 }
